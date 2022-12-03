@@ -10,12 +10,13 @@ var studentRouter=require("./Routes/Student.route")
 
 const Connection=require("./Config/db")
 
-app.use("/auth",logRouter);
-app.use("/student",studentRouter);
 
 app.get("/", (req,res)=>{
     res.send("Welcome to homepage");
 });
+
+app.use("/auth",logRouter);
+app.use("/student",studentRouter);
 
 app.listen(8080,async()=>{
     try{
