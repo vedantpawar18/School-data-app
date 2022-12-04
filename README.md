@@ -40,14 +40,12 @@ Feel free to reach out to us for any feedback.
 
 <hr>
 
-![Screenshot (765)](https://user-images.githubusercontent.com/101568818/205486289-a389e35e-4829-4e70-b4dc-5902b8872a28.png)
+
 <img src="https://user-images.githubusercontent.com/101568818/205486289-a389e35e-4829-4e70-b4dc-5902b8872a28.png"/><hr>
-![Screenshot (766)](https://user-images.githubusercontent.com/101568818/205486327-e294bb53-ff7e-4a3e-9315-e3e7189045e0.png)
-<hr>
-![Screenshot (768)](https://user-images.githubusercontent.com/101568818/205486332-49bc3f94-bdfe-4777-bb79-18e49ba81be2.png)
-<hr>
-![Screenshot (767)](https://user-images.githubusercontent.com/101568818/205486336-29f9f3f2-ad13-404f-a109-08ab3598b605.png)
-<hr>
+<img src="https://user-images.githubusercontent.com/101568818/205486327-e294bb53-ff7e-4a3e-9315-e3e7189045e0.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101568818/205486332-49bc3f94-bdfe-4777-bb79-18e49ba81be2.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101568818/205486336-29f9f3f2-ad13-404f-a109-08ab3598b605.png"/><hr>
+
 
 
 
